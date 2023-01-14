@@ -1,0 +1,24 @@
+[
+
+	{
+		"MacAddr": "12:38:42.497",
+		"Coords": "Zone 1"
+	},
+
+	{
+		"MacAddr": "12:38:42.543",
+		"Coords": "Zone 2"
+	},
+
+	{
+		"MacAddr": "12:39:24.221",
+		"Coords": "Zone 3"
+	},
+
+	{
+		"MacAddr": "10:B3:D5:4D:DE:E0",
+		"Coords": "Zone 4"
+	}
+
+
+]
