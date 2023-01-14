@@ -1,15 +1,16 @@
 [
-   {"Mac_Addr": "12:38:42.497",
-   "Co-ords": "Zone 1"},
+   
+	{"MacAddr": "12:38:42.497",
+   "Coords": "Zone 1"},
 
-   {"Mac_Addr": "12:38:42.543" ,
-   "Co-ords": "Zone 2"},
+   {"MacAddr": "12:38:42.543" ,
+   "Coords": "Zone 2"},
 
-   {"Mac_Addr": "12:39:24.221" ,
-   "Co-ords": "Zone 3"},
+   {"MacAddr": "12:39:24.221" ,
+   "Coords": "Zone 3"},
 
-   {"Mac_Addr": "10:B3:D5:4D:DE:E0" ,
-   "Co-ords": "Zone 4"}
+   {"MacAddr": "10:B3:D5:4D:DE:E0" ,
+   "Coords": "Zone 4"}
 
 
 ]
